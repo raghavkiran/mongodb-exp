@@ -513,7 +513,7 @@ Type "it" for more
 		}
 	},
 	"serverInfo" : {
-		"host" : "LP_Raghavendra_a",
+		"host" : "COMPUTER_NAME",
 		"port" : 27017,
 		"version" : "3.2.6",
 		"gitVersion" : "05552b562c7a0b3143a729aaa0838e558dc49b25"
@@ -616,7 +616,7 @@ Type "it" for more
 		}
 	},
 	"serverInfo" : {
-		"host" : "LP_Raghavendra_a",
+		"host" : "COMPUTER_NAME",
 		"port" : 27017,
 		"version" : "3.2.6",
 		"gitVersion" : "05552b562c7a0b3143a729aaa0838e558dc49b25"
